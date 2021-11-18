@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="fIREBIRDtEST.exe" version="1.0.0.1" publicKeyToken="98bee9b145dc0f3a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="fIREBIRDtEST" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="fIREBIRDtEST.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ADODB" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fIREBIRDtEST.exe" size="58368">
+      <assemblyIdentity name="fIREBIRDtEST" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>aVHid9Mx80o9qT0kGOJ/FJWfeGE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=INTERNET\gabriel" issuerKeyHash="ac17ac5f2c3da38439a153aaad190de8ad9ce9a6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ZUB3y/YX2vNXyPmEidRr+8UIA9I=</DigestValue></Reference></SignedInfo><SignatureValue>E67nrvBFt4ntgJNjl5OEMfJZplHogekMMk5SyGWVDuek9sXBfIYKsLAAcTm3IzjjzcFD3kY8HwWzamfN6QTO8woIuUYLdpmA2zLmWs81/45S/axMMmYiThdxJ3ww+gHxqz23pLfQ9w+Bf8EUbvTc/2A/nm2EIAtLJP+tSS+lENg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>t7K4dUh8w8LM70Qs/dZWKzjr7XcnHh8UhhjCIVXJbMNTX61oRTYPtXFWv2D+BCprhI66wQuGRp/pC4UZSladjeTlYWVdTU3eIOLPrJn2yM3ifRVNoFcIH790o68UEVsptF0pztmVMCNwsny+S/G+DF6j2iWa7asoD7KBnExp4Yk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d20308c5fb6bd48984f9c857f3da17f6cb774065" Description="" Url=""><as:assemblyIdentity name="fIREBIRDtEST.exe" version="1.0.0.1" publicKeyToken="98bee9b145dc0f3a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=INTERNET\gabriel</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>HAgyKpCFpf3lRbvsiuhYP0cGNjo=</DigestValue></Reference></SignedInfo><SignatureValue>hZhIdKZS4nf41f9qzVJGjERQdxzwXv8aftW6rDC1Jfo6sXdsH5G/AdY21tiIHZQmOsttDj1+xEKrtiJa0jOj++KXES7Ths30CyU+QI5SiVP+L5L8tH08NS8kTOF49gUWN3yO3Es18tpXYq63oUyIdHoqT3ZHFsELXVQ7oYrgq0w=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>t7K4dUh8w8LM70Qs/dZWKzjr7XcnHh8UhhjCIVXJbMNTX61oRTYPtXFWv2D+BCprhI66wQuGRp/pC4UZSladjeTlYWVdTU3eIOLPrJn2yM3ifRVNoFcIH790o68UEVsptF0pztmVMCNwsny+S/G+DF6j2iWa7asoD7KBnExp4Yk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCAT6gAwIBAgIQO717nE0wXLhOBNJ1KEOlQDAJBgUrDgMCHQUAMCsxKTAnBgNVBAMeIABJAE4AVABFAFIATgBFAFQAXABnAGEAYgByAGkAZQBsMB4XDTExMDIxNjIwMDg1MFoXDTEyMDIxNzAyMDg1MFowKzEpMCcGA1UEAx4gAEkATgBUAEUAUgBOAEUAVABcAGcAYQBiAHIAaQBlAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALeyuHVIfMPCzO9ELP3WVis46+13Jx4fFIYYwiFVyWzDU1+taEU2D7VxVr9g/gQqa4SOusELhkaf6QuFGUpWnY3k5WFlXU1N3iDiz6yZ9sjN4n0VTaBXCB+/dKOvFBFbKbRdKc7ZlTAjcLJ8vkvxvgxeo9olmu2rKA+ygZxMaeGJAgMBAAEwCQYFKw4DAh0FAAOBgQB5nI1iIYdVCUvbE/kCcg778cg2wsEt+2yRRCizxH0M+zCjpiJYV3sYJZBHQT7CiDte5NX0DnjgqGoYVlpzQZB6nneo2/dfAi5BdYFZOFJLvBOgWIE3VzagAFkiM3HPOCkaP6twGbhhz7a8DGyJsbeQFQHt3WomyLnkPeVegoE4+g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

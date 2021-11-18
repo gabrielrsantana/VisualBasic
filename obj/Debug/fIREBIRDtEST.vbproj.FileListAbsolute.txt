@@ -1,0 +1,51 @@
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\ResolveAssemblyReference.cache
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.Form1.resources
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.Resources.resources
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.vbproj.GenerateResource.Cache
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.SplashScreen1.resources
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe.manifest
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.application
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.pdb
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.xml
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.exe.manifest
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.application
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.exe
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.xml
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.pdb
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.exe
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.xml
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.pdb
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe.manifest
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.application
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.pdb
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.xml
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\ResolveAssemblyReference.cache
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.Form1.resources
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.Resources.resources
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.SplashScreen1.resources
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.vbproj.GenerateResource.Cache
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.exe.manifest
+D:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.application
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.exe
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.xml
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.pdb
+C:\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe.manifest
+C:\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.application
+C:\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe
+C:\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.pdb
+C:\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.xml
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\ResolveAssemblyReference.cache
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.Form1.resources
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.Resources.resources
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\fIREBIRDtEST.SplashScreen1.resources
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.exe.manifest
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.application
+C:\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe.config
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\GenerateResource.read.1.tlog
+C:\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\GenerateResource.write.1.tlog
+E:\VISUAL BASIC 2016\VisualBasic2014\fIREBIRDtEST\fIREBIRDtEST\bin\Debug\Laudo de preventivo.exe.config
+E:\VISUAL BASIC 2016\VisualBasic2014\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.exe
+E:\VISUAL BASIC 2016\VisualBasic2014\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.xml
+E:\VISUAL BASIC 2016\VisualBasic2014\fIREBIRDtEST\fIREBIRDtEST\obj\Debug\Laudo de preventivo.pdb

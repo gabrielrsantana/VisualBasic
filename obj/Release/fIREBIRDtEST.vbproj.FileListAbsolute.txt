@@ -1,0 +1,14 @@
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Release\fIREBIRDtEST.exe.manifest
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Release\fIREBIRDtEST.application
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Release\fIREBIRDtEST.exe
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Release\fIREBIRDtEST.pdb
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\bin\Release\fIREBIRDtEST.xml
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\ResolveAssemblyReference.cache
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.Form1.resources
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.Resources.resources
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.vbproj.GenerateResource.Cache
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.exe.manifest
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.application
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.exe
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.xml
+C:\visualBasic\fIREBIRDtEST\fIREBIRDtEST\obj\Release\fIREBIRDtEST.pdb
